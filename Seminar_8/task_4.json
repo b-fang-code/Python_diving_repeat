@@ -1,0 +1,50 @@
+[
+  {
+    "access_level": "1",
+    "user_id": "0000000099",
+    "name": "Мажук",
+    "hash": "ad44f8607a410f17d8356979d7c1429e8ac683333a1c5551512dc5327dc023f1"
+  },
+  {
+    "access_level": "2",
+    "user_id": "0000000034",
+    "name": "Игорь",
+    "hash": "990d9fba1cc6c784ad167c1ebb1a52830be689abfc4cbd44dc581a9b9b97ad6c"
+  },
+  {
+    "access_level": "2",
+    "user_id": "0000000023",
+    "name": "Dsf",
+    "hash": "9dce00c379dbd9c23d64ae691a71f569377677cadbe6971aa0265fdace338d6a"
+  },
+  {
+    "access_level": "3",
+    "user_id": "0000000323",
+    "name": "Папа",
+    "hash": "c86d2557ce43986e4619f72a5b14dc0e4a6a07d46b88b79b6318caf66fb4a283"
+  },
+  {
+    "access_level": "4",
+    "user_id": "0000000022",
+    "name": "Жжоо",
+    "hash": "22facea7f622c00f7ea871ac607f2379dd9f20076f2f88a8a0693eaab8e5ae0c"
+  },
+  {
+    "access_level": "5",
+    "user_id": "0000000032",
+    "name": "Павел",
+    "hash": "06164acb4e42d3eed070c0aedd78a807b61338c8aedb70ed4810925ca7f687c9"
+  },
+  {
+    "access_level": "6",
+    "user_id": "0000000998",
+    "name": "Прапор",
+    "hash": "21cf042d486ea2c1e05bf16f9446619f906058d26f61ebe0b2dfe940511817ed"
+  },
+  {
+    "access_level": "7",
+    "user_id": "0000000097",
+    "name": "Жмур",
+    "hash": "4eca4f11a660528e90a280611aa0fdce5d58bae33dbc58ee146bb47645bf74ec"
+  }
+]
